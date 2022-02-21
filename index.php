@@ -65,6 +65,34 @@
 
     <!--end navber-->
 
+    <header>
+        <nav>
+            <div class="navber1 container1">
+
+                <ul class="list">
+
+                    <li>
+                        <a href="">Contact Us</a>
+                    </li>
+                    <li>
+                        <a href="">Download</a>
+                    </li>
+                    <li>
+                        <a href="">Journal</a>
+                    </li>
+                    <li>
+                        <a href="">Editor</a>
+                    </li>
+                    <li>
+                        <a href="">About</a>
+                    </li>
+
+                </ul>
+
+            </div>
+        </nav>
+    </header>
+
     <!--start section using background-->
 
     <section class="background">
