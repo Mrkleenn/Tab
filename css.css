@@ -1,0 +1,205 @@
+* {
+    badding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: Roboto, sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-family: Montserrat, sans-serif;
+}
+
+
+/* start navber*/
+
+.container {
+    width: 100%;
+    padding: 0px 10px;
+}
+
+.navber {
+    height: 100px;
+    background-color: rgb(219, 218, 245);
+}
+
+.navber h1 a {
+    float: left;
+    color: #000000;
+    padding: 20px;
+}
+
+.navber h1 a1 {
+    float: left;
+    color: #df4040;
+    padding: 0px;
+}
+
+.navber ul {
+    list-style: none;
+}
+
+.navber ul li {
+    float: left;
+    padding: 20px;
+}
+
+.navber ul li a {
+    color: #121416;
+    float: right;
+    ;
+}
+
+
+/* end navber*/
+
+
+/*start navber1 */
+
+.container1 {
+    width: 100%;
+    padding: 0px 10px;
+}
+
+.navber1 {
+    height: 60px;
+    background-color: rgb(160, 160, 160);
+}
+
+.navber1 h1 a {
+    float: right;
+    color: #000000;
+    padding: 20px;
+}
+
+.navber1 h1 a1 {
+    float: left;
+    color: #df4040;
+    padding: 0px;
+}
+
+.navber1 ul {
+    list-style: none;
+}
+
+.navber1 ul li {
+    float: right;
+    padding: 20px;
+}
+
+.navber1 ul li a {
+    color: #121416;
+    float: left;
+    ;
+}
+
+
+/* end navber1*/
+
+
+/*start section using background*/
+
+.background {
+    background-image: url('img/tab.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    color: rgb(231, 230, 230);
+}
+
+.background h1 {
+    padding-top: 200px;
+    font-size: 40px;
+}
+
+.background p {
+    margin: 20px 30px;
+    line-height: 1.5;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.background button {
+    background-color: #74ce77;
+    padding: 18px;
+}
+
+.background button a {
+    color: white;
+}
+
+
+/*end section using background*/
+
+
+/*start section using about*/
+
+.about {
+    text-align: center;
+}
+
+.about h1 {
+    color: #005496;
+    padding: 50px 0px 20px 0px;
+    font-size: 40px;
+}
+
+.about p {
+    line-height: 1.5em;
+    font-size: 20px;
+}
+
+
+/*end section using about*/
+
+
+/*start section using box*/
+
+.box {
+    padding: 30px 50px;
+}
+
+.box h3 {
+    font-size: 30px;
+    display: inline-block;
+}
+
+.box p {
+    font-size: 20px;
+}
+
+.boxPassion {
+    float: left;
+    width: 33.3333%;
+    padding: 30px;
+    line-heigt: 1.5em;
+}
+
+.boxcreative {
+    float: left;
+    width: 33.3333%;
+    padding: 30px;
+    line-heigt: 1.5em;
+}
+
+.boxQuality {
+    float: left;
+    width: 33.3333%;
+    padding: 30px;
+    line-heigt: 1.5em;
+}
+
+
+/*start section using box*/
